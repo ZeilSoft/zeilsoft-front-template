@@ -1,5 +1,13 @@
 # zeilsoft-front-template
 
+## IMPORTANTE tenes que tener instalado degit sino ejecutar el siguiente comando
+
+```
+
+npm install -g degit
+
+```
+
 ### Para clonar el templete primero debe ejecutar
 
 ```
