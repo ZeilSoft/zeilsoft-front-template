@@ -1,6 +1,7 @@
 # zeilsoft-front-template
 
-## IMPORTANTE tenes que tener instalado degit sino ejecutar el siguiente comando
+## IMPORTANTE tenes que tener instalado degit.
+##### Sino ejecutar el siguiente comando
 
 ```
 
